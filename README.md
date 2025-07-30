@@ -53,3 +53,5 @@ Custom memory allocators: Like those used in embedded systems.
 This task deepened my understanding of how data structures work under the hood and laid a strong foundation for learning advanced structures like doubly linked lists, trees, and graphs. It also prepared me for technical interviews and coding challenges, where linked list problems are very common.
 
 *OUTPUT*
+
+<img width="1919" height="1020" alt="Image" src="https://github.com/user-attachments/assets/5ca23df2-6883-4208-aa44-253e9a5968bf" />
